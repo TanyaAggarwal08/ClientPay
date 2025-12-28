@@ -246,7 +246,7 @@ export default function TutoringManager() {
 
 <div className="w-2 h-8 bg-blue-500 rounded-full"></div>
 
-Today's Schedule
+Upcoming Classes
 
 <span className="text-sm bg-blue-100 text-blue-700 px-3 py-1 rounded-full">
 
